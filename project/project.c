@@ -118,7 +118,7 @@ void inventorych(){
 		printf("#\tName\t Amount(per portion)");
 		while(fread(&aa,sizeof(item),1,fptr)){
 			if(aa.present<=10){
-				printf("%d\t%d\t %d\n",aa.ingredient,aa.name,aa.present);
+				printf("%d\t%s\t %d\n",aa.ingredient,aa.name,aa.present);
 			}
 		}
 	}
