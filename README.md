@@ -1,13 +1,14 @@
-semester 1 pf project
+# Restaurant Management System
+A Program which provides dynamic restaurant management using multiple files and basic programming concepts
 
-code for project is in project.c
 
-username and password for admin
+
+
+# Credentials
+# Admin
 
 killoy56 and helpme
 
-for chef
+# Chef
 
 telephone and fast1234
-
-rajaji and uni098765
